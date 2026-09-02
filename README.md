@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/vedant-4009/Daily-Problems/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/vedant-4009/Daily-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vedant-4009/Daily-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/vedant-4009/Daily-Problems/tree/master/0877-stone-game) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/vedant-4009/Daily-Problems/tree/master/0010-regular-expression-matching) |
+| [0198-house-robber](https://github.com/vedant-4009/Daily-Problems/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/vedant-4009/Daily-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vedant-4009/Daily-Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vedant-4009/Daily-Problems/tree/master/1140-stone-game-ii) |
