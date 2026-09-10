@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/vedant-4009/Daily-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vedant-4009/Daily-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vedant-4009/Daily-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vedant-4009/Daily-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/vedant-4009/Daily-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vedant-4009/Daily-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Union-Find
 |  |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vedant-4009/Daily-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/vedant-4009/Daily-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
